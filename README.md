@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I'm+Muhamad+Rifky!;Software+Engineering+Student;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 
   <p align="center">
-    <b>Software Engineering Student 🎓 | Web Developer 💻</b>
+    <b>Software Engineering Student 🎓 | IT Enthusiast 🚀 | Web Developer 💻</b>
   </p>
 
   <!-- Visitor Counter & Follower Badges -->
@@ -21,15 +21,39 @@
 
 ### 💫 About Me
 
-I'm **Muhamad Rifky Putra Hilmansyah**, a Software Engineering student. I have a strong passion for web development, software engineering, and digital solutions.
+Halo! 👋 Nama saya **Muhamad Rifky Putra Hilmansyah**. Saya seorang pelajar yang sedang menempuh pendidikan di jurusan **IT (Software Engineering)**. 
 
-I focus on building clean, efficient, and user-friendly applications. As a continuous learner and adaptive thinker, I enjoy exploring new technologies, working on version control systems, and collaborating on exciting projects.
+Saya memiliki antusiasme dan ketertarikan yang sangat besar terhadap dunia teknologi informasi, pemrograman web, serta eksplorasi *software development* modern. 
+
+- 🎓 **Status**: Pelajar Jurusan IT / Software Engineering
+- 🚀 **Fokus Utama**: Web Development & Software Engineering
+- 💡 **Minat**: Eksplorasi teknologi baru, logika pemrograman, & pembuatan solusi digital yang bermanfaat
+- 🌱 **Sedang Mempelajari**: Pemrograman Web Tingkat Lanjut, Framework Modern, & Best Practices Software Development
 
 ---
 
 ### 🛠️ Technologies and Tools
 
+<p align="center">
+  <!-- Tech Icons di Atas -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+</p>
+
+<br/>
+
 <p align="left">
+  <!-- Badges Nama Teknologi di Bawah -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -46,22 +70,7 @@ I focus on building clean, efficient, and user-friendly applications. As a conti
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RifkyPutra25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifkyPutra25&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RifkyPutra25&theme=tokyonight&hide_border=true" width="97%" />
-</div>
-
----
-
-### 🌐 Connect with Me
+### 🌐 Social Media
 
 <div align="center">
 
