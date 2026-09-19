@@ -1,11 +1,9 @@
 <div align="center">
 
-  <!-- Header Banner dengan Animasi Typing -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I'm+Muhamad+Rifky!;Software+Engineering+Student;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <!-- Animated Waving Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,11,15,12&height=220&section=header&text=Hi,%20I'm%20Muhamad%20Rifky!&fontSize=42&fontColor=ffffff&animation=twinkle&desc=Software%20Engineering%20Student%20|%20IT%20Enthusiast&descSize=18&descAlignY=70" width="100%"/>
 
-  <p align="center">
-    <b>Software Engineering Student 🎓 | IT Enthusiast 🚀 | Web Developer 💻</b>
-  </p>
+  <br/>
 
   <!-- Visitor Counter & Follower Badges -->
   <a href="https://github.com/RifkyPutra25">
@@ -21,21 +19,18 @@
 
 ### 💫 About Me
 
-Halo! 👋 Nama saya **Muhamad Rifky Putra Hilmansyah**. Saya seorang pelajar yang sedang menempuh pendidikan di jurusan **IT (Software Engineering)**. 
+Hello! 👋 I'm **Muhamad Rifky Putra Hilmansyah**, a student majoring in Software Engineering[cite: 8]. I have a huge passion for information technology, web development, and exploring modern software solutions[cite: 8].
 
-Saya memiliki antusiasme dan ketertarikan yang sangat besar terhadap dunia teknologi informasi, pemrograman web, serta eksplorasi *software development* modern. 
-
-- 🎓 **Status**: Pelajar Jurusan IT / Software Engineering
-- 🚀 **Fokus Utama**: Web Development & Software Engineering
-- 💡 **Minat**: Eksplorasi teknologi baru, logika pemrograman, & pembuatan solusi digital yang bermanfaat
-- 🌱 **Sedang Mempelajari**: Pemrograman Web Tingkat Lanjut, Framework Modern, & Best Practices Software Development
+- 🎓 Currently studying Software Engineering in high school
+- 🚀 Passionate about web development and building software applications
+- 💡 Love exploring new technologies, solving logic problems, and creating impact
+- 🌱 Continuously learning advanced web development, modern frameworks, and best practices
 
 ---
 
 ### 🛠️ Technologies and Tools
 
 <p align="center">
-  <!-- Tech Icons di Atas -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> &nbsp;
@@ -53,7 +48,6 @@ Saya memiliki antusiasme dan ketertarikan yang sangat besar terhadap dunia tekno
 <br/>
 
 <p align="left">
-  <!-- Badges Nama Teknologi di Bawah -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
