@@ -1,7 +1,12 @@
 <div align="center">
 
-  <!-- Animated Waving Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,11,15,12&height=220&section=header&text=Hi,%20I'm%20Muhamad%20Rifky!&fontSize=42&fontColor=ffffff&animation=twinkle&desc=Software%20Engineering%20Student%20|%20IT%20Enthusiast&descSize=18&descAlignY=70" width="100%"/>
+  <!-- Header Banner Waving Deep Blue Gradient -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3&height=220&section=header&text=Hi,%20I'm%20Muhamad%20Rifky!&fontSize=40&fontColor=ffffff&desc=Software%20Engineering%20Student%20|%20IT%20Enthusiast&descSize=18&descAlignY=70" width="100%"/>
+
+  <br/>
+
+  <!-- Animasi Teks Ketik Berjalan -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&height=40&lines=Software+Engineering+Student+%F0%9F%8E%93;IT+Enthusiast+%F0%9F%9A%80;Web+%26+Software+Developer+%F0%9F%92%BB;Welcome+to+my+GitHub+Profile!+%E2%9C%A8" alt="Typing SVG" />
 
   <br/>
 
@@ -19,7 +24,7 @@
 
 ### 💫 About Me
 
-Hello! 👋 I'm **Muhamad Rifky Putra Hilmansyah**, a student majoring in Software Engineering[cite: 8]. I have a huge passion for information technology, web development, and exploring modern software solutions[cite: 8].
+Hello! 👋 I'm **Muhamad Rifky Putra Hilmansyah**, a student majoring in Software Engineering. I have a huge passion for information technology, web development, and exploring modern software solutions.
 
 - 🎓 Currently studying Software Engineering in high school
 - 🚀 Passionate about web development and building software applications
