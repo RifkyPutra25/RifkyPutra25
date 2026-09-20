@@ -35,21 +35,26 @@ Hello! 👋 I'm **Muhamad Rifky Putra Hilmansyah**, a student majoring in Softwa
 
 ### 🛠️ Technologies and Tools
 
-<div align="center">
+<p align="center">
+  <!-- Line 1: Languages & Frameworks -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="45"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="45" height="45"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="45" height="45"/>
+</p>
 
-  <!-- Languages & Frameworks Icons -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,php,laravel&perline=8" />
-  </a>
-
-  <br/><br/>
-
-  <!-- Tools & Software Icons -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,postman,figma,canva,git&perline=8" />
-  </a>
-
-</div>
+<p align="center">
+  <!-- Line 2: Tools & Software -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="45" height="45"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="45" height="45"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+</p>
 
 <br/>
 
