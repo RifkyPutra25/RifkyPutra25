@@ -48,8 +48,6 @@ Hello! 👋 I'm **Muhamad Rifky Putra Hilmansyah**, a student majoring in Softwa
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,postman,figma,canva,git&perline=8" />
   </a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="google" width="40" height="40"/> &nbsp;
-  <img src="https://img.icons8.com/color/48/gravity.png" alt="antigravity" width="40" height="40"/>
 
 </div>
 
@@ -72,8 +70,7 @@ Hello! 👋 I'm **Muhamad Rifky Putra Hilmansyah**, a student majoring in Softwa
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white" />
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anti_Gravity-000000?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anti_Gravity-0078D4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
   <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" />
