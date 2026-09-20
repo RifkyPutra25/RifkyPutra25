@@ -6,7 +6,7 @@
   <br/>
 
   <!-- Animasi Teks Ketik Berjalan -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&height=40&lines=Software+Engineering+Student+%F0%9F%8E%93;IT+Enthusiast+%F0%9F%9A%80;Web+%26+Software+Developer+%F0%9F%92%BB;Welcome+to+my+GitHub+Profile!+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=40&lines=Software+Engineering+Student;IT+Enthusiast;Web+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 
   <br/>
 
@@ -24,12 +24,12 @@
 
 ### 💫 About Me
 
-Hello! 👋 I'm **Muhamad Rifky Putra Hilmansyah**, a student majoring in Software Engineering. I have a huge passion for information technology, web development, and exploring modern software solutions.
-
-- 🎓 Currently studying Software Engineering in high school
-- 🚀 Passionate about web development and building software applications
-- 💡 Love exploring new technologies, solving logic problems, and creating impact
-- 🌱 Continuously learning advanced web development, modern frameworks, and best practices
+> 👋 **Hello! I'm Muhamad Rifky Putra Hilmansyah**, a student majoring in Software Engineering. I have a huge passion for information technology, web development, and exploring modern software solutions.
+>
+> - 🎓 **Currently studying** Software Engineering in high school
+> - 🚀 **Passionate about** web development and building software applications
+> - 💡 **Love exploring** new technologies, solving logic problems, and creating impact
+> - 🌱 **Continuously learning** advanced web development, modern frameworks, and best practices
 
 ---
 
@@ -81,6 +81,15 @@ Hello! 👋 I'm **Muhamad Rifky Putra Hilmansyah**, a student majoring in Softwa
   <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RifkyPutra25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RifkyPutra25&theme=tokyonight&hide_border=true" width="48%" />
+</div>
 
 ---
 
