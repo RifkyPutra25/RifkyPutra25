@@ -54,10 +54,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" width="45" height="45"/> &nbsp;
   <img src="https://img.icons8.com/fluency/48/elephant.png" alt="laragon" width="45" height="45"/> &nbsp;
   <img src="https://img.icons8.com/color/48/xampp.png" alt="xampp" width="45" height="45"/> &nbsp;
-  <img src="https://img.icons8.com/color/48/gravity.png" alt="anti-gravity" width="45" height="45"/> &nbsp;
+  <img src="https://cdn.simpleicons.org/google/4285F4" alt="anti-gravity" width="45" height="45"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="canva" width="45" height="45"/> &nbsp;
-  <img src="https://img.icons8.com/color/48/capcut.png" alt="capcut" width="45" height="45"/> &nbsp;
+  <img src="https://cdn.simpleicons.org/capcut" alt="capcut" width="45" height="45"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 </p>
 
@@ -93,17 +93,17 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <!-- GitHub Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=RifkyPutra25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  
-  <br/><br/>
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifkyPutra25&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  
+  <!-- GitHub Main Stats (dipindah ke github-stats-extended karena instance vercel resmi anuraghazra sedang "Deployment Paused") -->
+  <img src="https://github-stats-extended.vercel.app/api?username=RifkyPutra25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+
   <br/><br/>
 
-  <!-- GitHub Streak (Fixed Link) -->
+  <!-- Top Languages -->
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RifkyPutra25&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+  <br/><br/>
+
+  <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com/?user=RifkyPutra25&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
