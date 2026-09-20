@@ -57,7 +57,7 @@
   <img src="https://cdn.simpleicons.org/google/4285F4" alt="anti-gravity" width="45" height="45"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="canva" width="45" height="45"/> &nbsp;
-  <img src="https://cdn.simpleicons.org/capcut" alt="capcut" width="45" height="45"/> &nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/capcut.svg" alt="capcut" width="45" height="45"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 </p>
 
