@@ -36,7 +36,7 @@ Hello! 👋 I'm **Muhamad Rifky Putra Hilmansyah**, a student majoring in Softwa
 ### 🛠️ Technologies and Tools
 
 <p align="center">
-  <!-- Icons Line 1 -->
+  <!-- Icons Line 1: Code Editor & Web Tech -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> &nbsp;
@@ -45,11 +45,18 @@ Hello! 👋 I'm **Muhamad Rifky Putra Hilmansyah**, a student majoring in Softwa
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
+</p>
+
+<p align="center">
+  <!-- Icons Line 2: Tools & Design -->
+  <img src="https://postman-quicklook.github.io/assets/postman-icon.svg" alt="postman" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xampp/xampp-original.svg" alt="xampp" width="40" height="40"/> &nbsp;
+  <img src="https://img.icons8.com/color/48/elephant.png" alt="laragon" width="40" height="40"/> &nbsp;
+  <img src="https://img.icons8.com/color/48/video-editing.png" alt="capcut" width="40" height="40"/>
 </p>
 
 <br/>
