@@ -75,6 +75,7 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel_Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
+
 <p align="center">
   <!-- Badges Tools -->
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -98,9 +99,9 @@
   
   <br/><br/>
   
-  <!-- GitHub Stats & Top Languages berdampingan dengan ukuran sejajar -->
-  <img src="https://github-readme-stats.vercel.app/api?username=RifkyPutra25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&height=195" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifkyPutra25&layout=compact&theme=tokyonight&hide_border=true&height=195" alt="Top Languages" />
+  <!-- GitHub Stats & Top Languages berdampingan dengan ukuran tinggi sejajar 195px -->
+  <img src="https://github-readme-stats.vercel.app/api?username=RifkyPutra25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifkyPutra25&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="195" />
 </div>
 
 ---
