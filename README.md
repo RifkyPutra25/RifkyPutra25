@@ -93,14 +93,14 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <!-- GitHub Streak (sendiri, di atas, di tengah) -->
-  <img src="https://streak-stats.demolab.com/?user=RifkyPutra25&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com/?user=RifkyPutra25&theme=tokyonight&hide_border=true&card_width=470" alt="GitHub Streak" />
+  
   <br/><br/>
-
-  <!-- GitHub Stats & Top Languages berdampingan -->
-  <img src="https://github-stats-extended.vercel.app/api?username=RifkyPutra25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RifkyPutra25&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
+  
+  <!-- GitHub Stats & Top Languages berdampingan dengan ukuran sejajar -->
+  <img src="https://github-readme-stats.vercel.app/api?username=RifkyPutra25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&height=195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifkyPutra25&layout=compact&theme=tokyonight&hide_border=true&height=195" alt="Top Languages" />
 </div>
 
 ---
