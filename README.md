@@ -57,7 +57,7 @@
   <img src="https://cdn.simpleicons.org/google/4285F4" alt="anti-gravity" width="45" height="45"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="canva" width="45" height="45"/> &nbsp;
- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cap-cut-dark.svg" alt="capcut" width="45" height="45"/> &nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cap-cut-dark.svg" alt="capcut" width="45" height="45"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 </p>
 
@@ -93,18 +93,14 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <!-- GitHub Main Stats (dipindah ke github-stats-extended karena instance vercel resmi anuraghazra sedang "Deployment Paused") -->
-  <img src="https://github-stats-extended.vercel.app/api?username=RifkyPutra25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-
-  <br/><br/>
-
-  <!-- Top Languages -->
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RifkyPutra25&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-  <br/><br/>
-
-  <!-- GitHub Streak -->
+  <!-- GitHub Streak (sendiri, di atas, di tengah) -->
   <img src="https://streak-stats.demolab.com/?user=RifkyPutra25&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+  <br/><br/>
+
+  <!-- GitHub Stats & Top Languages berdampingan -->
+  <img src="https://github-stats-extended.vercel.app/api?username=RifkyPutra25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RifkyPutra25&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
 </div>
 
 ---
