@@ -93,15 +93,16 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
+
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com/?user=RifkyPutra25&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=RifkyPutra25&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
 
   <br/><br/>
 
-  <!-- GitHub Stats & Top Languages berdampingan -->
-  <!-- Penambahan hide=issues membuat tinggi kotak Stats otomatis sama rata dengan kotak Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=RifkyPutra25&show_icons=true&theme=tokyonight&hide_border=true&hide=issues" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifkyPutra25&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
+  <!-- GitHub Stats & Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api?username=RifkyPutra25&show_icons=true&theme=tokyonight&hide_border=true&hide=issues&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifkyPutra25&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+
 </div>
 
 ---
